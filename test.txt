@@ -1,0 +1,2 @@
+This is a new text file.A text file consists of lots of alphanumeric characters and digits. 
+ This is the second line of the file.This is the continuation of previous content in the text file.
